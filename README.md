@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JavaScript , React JS**
 
-- 📫 How to reach me **saklain2135@gmail.com**
+- 📫 How to reach me **saklainmostak2135@gmail.com**
 
 - ⚡ Fun fact **I love to cook, I love to playing game, I love to travel on my motorcycle.**
 
