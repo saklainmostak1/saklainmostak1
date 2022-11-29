@@ -16,15 +16,15 @@
 
 - 💬 Ask me about **JavaScript , React JS**
 
-- 📫 How to reach me **saklainmostak2135@gmail.com**
+- 📫 How to reach me **saklain2135@gmail.com**
 
 - ⚡ Fun fact **I love to cook, I love to playing game, I love to travel on my motorcycle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saklainmostak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saklainmostak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saklain mostak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saklain mostak" height="30" width="40" /></a>
-<a href="https://fb.com/saklain mostak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saklain mostak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saklain-mostak-a99288248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saklain mostak" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100088145321928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saklain mostak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
