@@ -1,4 +1,4 @@
-![MasterHead](https://www.elegantthemes.com/blog/wp-content/uploads/2020/02/000-Best-Atom-Packages.png)
+![MasterHead](http://www.getaprogrammer.com.au/wp-content/uploads/2020/04/react.jpg)
 <h1 align="center">Hi 👋, I'm Saklain Mostak</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p>I am a student at Daffodil International University's Department of Computer Science and Engineering<p>
