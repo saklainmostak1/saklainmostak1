@@ -1,6 +1,6 @@
 ![MasterHead](https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/11/22114256/best-combine-a-node.js-with-a-react.js-for-web-development.jpg)
 <h1 align="center">Hi 👋, I'm Saklain Mostak</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <p>I am a student at Daffodil International University's Department of Computer Science and Engineering<p>
 
 
